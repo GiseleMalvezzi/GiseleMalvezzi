@@ -1,4 +1,4 @@
-# Hi there! 👋 Welcome to my GitHub profile 👩‍🔬📊
+# Hi there! Welcome to my GitHub profile 📊
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GiseleMalvezzi&color=blueviolet&style=flat-square)
 
@@ -16,7 +16,7 @@ Additionally, mentor healthcare professionals transitioning into clinical resear
 
 ## 💼 Professional Experience
 
-### 🏥 Current Position
+### Current Position
 
 **Clinical Data Analyst** | HCor | May 2025 - Present
 - Data quality and integrity management for clinical studies
@@ -25,7 +25,7 @@ Additionally, mentor healthcare professionals transitioning into clinical resear
 - Develop monitoring dashboards using Power BI and Excel
 - Train team members on data collection procedures and electronic CRF usage
 
-### 🎓 Guest Lecturer
+### Guest Lecturer
 
 **Harvard University** | May 2025
 - Delivered lectures on the application of technology and artificial intelligence in healthcare
@@ -36,7 +36,7 @@ Additionally, mentor healthcare professionals transitioning into clinical resear
 - Invited professor in Postgraduate Course in Applied Clinical Research
 - 6-hour module on "Career Transition to Clinical Research"
 
-### 🔬 Previous Key Roles
+### Previous Key Roles
 
 **Project Development Manager** | Instituto D'Or de Pesquisa e Ensino | Oct 2024 - May 2025
 - Clinical project management and implementation
@@ -128,11 +128,11 @@ Here are some of my key repositories and contributions:
 
 ## 🏆 Key Achievements
 
-- 📚 **Guest Lecturer at Harvard University** – Taught AI and technology applications in healthcare
-- 💉 **Janssen COVID-19 Study Leadership** – Led management and conduct ensuring GCP compliance
-- 👥 **Mentoring & Content Creation** – 15,957+ LinkedIn followers with specialized clinical research content
-- 🔬 **Multicenter Clinical Trials** – Extensive experience in oncology, intensive care, robotics, and medical devices
-- 📊 **Data Quality Excellence** – Implemented data management systems ensuring regulatory audit readiness
+- **Guest Lecturer at Harvard University** – Taught AI and technology applications in healthcare
+- **Janssen COVID-19 Study Leadership** – Led management and conduct ensuring GCP compliance
+- **Mentoring & Content Creation** – 15,957+ LinkedIn followers with specialized clinical research content
+- **Multicenter Clinical Trials** – Extensive experience in oncology, intensive care, robotics, and medical devices
+- **Data Quality Excellence** – Implemented data management systems ensuring regulatory audit readiness
 
 ---
 
@@ -140,11 +140,11 @@ Here are some of my key repositories and contributions:
 
 I'm committed to advancing open science and making research more accessible and reproducible:
 
-- 📖 **Reproducible Research** – All my analyses follow reproducible workflows with documented code
-- 🤝 **Collaboration** – Open to collaborating on biomedical research projects and data science initiatives
-- 🎓 **Knowledge Sharing** – Contributing to the scientific community through code, documentation, and best practices
-- 🔓 **Open Data** – Advocate for open data policies and transparent research methodologies
-- 💡 **Career Development** – Providing mentorship for healthcare professionals transitioning into clinical research
+- **Reproducible Research** – All my analyses follow reproducible workflows with documented code
+- **Collaboration** – Open to collaborating on biomedical research projects and data science initiatives
+- **Knowledge Sharing** – Contributing to the scientific community through code, documentation, and best practices
+- **Open Data** – Advocate for open data policies and transparent research methodologies
+- **Career Development** – Providing mentorship for healthcare professionals transitioning into clinical research
 
 ---
 
@@ -165,10 +165,10 @@ I'm always interested in connecting with fellow researchers, data scientists, an
 **LinkedIn:** [linkedin.com/in/giselemalvezzi](https://www.linkedin.com/in/giselemalvezzi/)
 
 Feel free to reach out for:
-- 🤝 Collaborations on clinical research projects
-- 💼 Consulting on clinical data management
-- 🎓 Mentorship for career transitions
-- 💬 Questions about biomedical research and data science
+- Collaborations on clinical research projects
+- Consulting on clinical data management
+- Mentorship for career transitions
+- Questions about biomedical research and data science
 
 ---
 
