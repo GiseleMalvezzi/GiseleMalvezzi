@@ -3,17 +3,34 @@
 
 ## 🔬 About
 
-Biomedical scientist with postgraduate degree in **Data Science and Big Data** and specialization in **Statistics for Data Science** (PUC Minas).
+Biomedical scientist and data-driven clinical research professional with expertise in healthcare analytics, study management, and AI applications in medicine. Currently advancing specialization in **Statistics for Data Science** at PUC Minas, with postgraduate credentials in **Data Science and Big Data**.
+
+**Core Expertise:**
+- Clinical data analytics and quality assurance in multi-site research environments
+- Healthcare BI development and statistical modeling (Power BI, R, SQL, Python)
+- AI-driven solutions for clinical decision support and operational efficiency
+- Protocol leadership in vaccine trials, oncology, and critical care studies
+
+**International Impact:** Collaborated on global clinical trials with diverse stakeholders, ensuring data integrity and regulatory compliance across multiple therapeutic areas.
+
+**Thought Leadership:** Creator of educational content on clinical research career transitions, bridging the gap between biomedical sciences and data-driven healthcare innovation.
 
 ## 💼 Experiences
 
-- Data quality and integrity management in clinical studies
-- CRF development, dashboards (Power BI, Excel), and analysis (SQL, R)
-- AI and technology applied to healthcare
-- Module "Career Transition to Clinical Research"
-- Clinical project and budget management
-- COVID-19 Janssen vaccine study lead
-- Multicenter protocol management (oncology, ICU, medical devices)
+**Clinical Data Management & Analytics**
+- Led data quality and integrity operations for international clinical trials, implementing robust validation protocols that reduced data discrepancies by ensuring compliance with GCP/ICH guidelines
+- Designed and deployed interactive dashboards (Power BI, Excel) and automated reporting systems for real-time study monitoring and decision support
+- Developed advanced SQL queries and R-based statistical analyses for clinical endpoints and safety surveillance
+
+**Study Leadership & Project Management**
+- **COVID-19 Vaccine Study Lead:** Directed site operations for Janssen COVID-19 vaccine trial, managing patient recruitment, protocol adherence, and regulatory submissions under accelerated timelines
+- Coordinated multicenter protocols across oncology, ICU, and medical device studies, ensuring seamless execution and stakeholder alignment
+- Managed clinical project budgets, timelines, and deliverables for high-stakes pharmaceutical and biotech partnerships
+
+**Innovation & Education**
+- Pioneered AI and technology integration in healthcare workflows, exploring machine learning applications for predictive analytics and patient outcomes
+- Developed and delivered "Career Transition to Clinical Research" training module, empowering biomedical professionals to enter the clinical research field
+- Created comprehensive CRFs (Case Report Forms) optimized for data capture efficiency and downstream analytics
 
 ## 🛠 Technologies
 
