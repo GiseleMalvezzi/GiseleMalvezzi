@@ -34,7 +34,7 @@ Biomedical scientist and data-driven clinical research professional with experti
 
 ## Technologies
 
-Power BI • SQL • R • Python • Excel (VBA) • REDCap • SAS • Git
+Power BI • SQL • R • Python • Excel (VBA) • REDCap • Javascript • Git
 
 ## Education
 
