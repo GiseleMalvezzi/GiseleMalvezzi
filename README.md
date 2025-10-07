@@ -4,10 +4,7 @@
 ## 🔬 About
 Biomedical scientist with postgraduate degree in **Data Science and Big Data** and specialization in **Statistics for Data Science** (PUC Minas).
 
-
-
 ## 💼 Experiences
-
 - Data quality and integrity management in clinical studies
 - CRF development, dashboards (Power BI, Excel), and analysis (SQL, R)
 - AI and technology applied to healthcare
@@ -27,3 +24,4 @@ Power BI • SQL • R • Python • Excel (VBA) • REDCap • SAS • Git
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/giselemalvezzi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pesquisaclinica.gisele@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5511964998520)
