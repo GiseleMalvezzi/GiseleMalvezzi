@@ -1,37 +1,38 @@
 # Gisele Malvezzi
 ![Profile Views](https://komarev.com/ghpvc/?username=GiseleMalvezzi&color=blueviolet&style=flat-square)
 
-## 🔬 Sobre
-Cientista biomédica com pós em **Data Science e Big Data** e especialização em **Estatística para Ciência de Dados** (PUC Minas).
+## 🔬 About
+Biomedical scientist with postgraduate degree in **Data Science and Big Data** and specialization in **Statistics for Data Science** (PUC Minas).
 
-**Clinical Data Analyst** no HCor | Ex-IDOR, Instituto Americas, SMOHB, UNIFESP
+**Clinical Data Analyst** at HCor | Former IDOR, Instituto Americas, SMOHB, UNIFESP
 
-## 💼 Experiência
-**Clinical Data Analyst** | HCor | Mai 2025 - Presente
-- Gestão de qualidade e integridade de dados em estudos clínicos
-- Desenvolvimento de CRFs, dashboards (Power BI, Excel) e análises (SQL, R)
+## 💼 Experience
 
-**Guest Lecturer** | Harvard University | Mai 2025
-- IA e tecnologia aplicada à saúde
+**Clinical Data Analyst** | HCor | May 2025 - Present
+- Data quality and integrity management in clinical studies
+- CRF development, dashboards (Power BI, Excel), and analysis (SQL, R)
 
-**Professor Convidado** | IDOR | Mar 2025
-- Módulo "Transição de Carreira para Pesquisa Clínica"
+**Guest Lecturer** | Harvard University | May 2025
+- AI and technology applied to healthcare
 
-**Project Development Manager** | IDOR | Out 2024 - Mai 2025
-- Gestão de projetos clínicos e orçamentos
+**Guest Professor** | IDOR | Mar 2025
+- Module "Career Transition to Clinical Research"
 
-**Clinical Research Analyst** | IDOR | Fev 2021 - Out 2024
-- Condução do estudo da vacina COVID-19 Janssen
-- Gestão de protocolos multicêntricos (oncologia, UTI, dispositivos médicos)
+**Project Development Manager** | IDOR | Oct 2024 - May 2025
+- Clinical project and budget management
 
-## 🛠 Tecnologias
+**Clinical Research Analyst** | IDOR | Feb 2021 - Oct 2024
+- COVID-19 Janssen vaccine study lead
+- Multicenter protocol management (oncology, ICU, medical devices)
+
+## 🛠 Technologies
 Power BI • SQL • R • Python • Excel (VBA) • REDCap • SAS • Git
 
-## 🎓 Formação
-- Especialização em Estatística para Ciência de Dados - PUC Minas (cursando)
-- Pós em Data Science e Big Data
-- Biomedicina - UNINOVE
+## 🎓 Education
+- Specialization in Statistics for Data Science - PUC Minas (ongoing)
+- Postgraduate in Data Science and Big Data
+- Biomedical Sciences - UNINOVE
 
-## 📫 Contato
+## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/giselemalvezzi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gisele.malvezzi@example.com)
