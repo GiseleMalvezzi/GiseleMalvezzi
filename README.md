@@ -1,4 +1,4 @@
-# Hi there! Welcome to my GitHub profile 📊
+# Hi there! Welcome to my GitHub profile
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GiseleMalvezzi&color=blueviolet&style=flat-square)
 
@@ -14,11 +14,12 @@ Additionally, mentor healthcare professionals transitioning into clinical resear
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### Current Position
 
 **Clinical Data Analyst** | HCor | May 2025 - Present
+
 - Data quality and integrity management for clinical studies
 - Development and review of case report forms (CRFs), dummy tables, and operational manuals
 - Utilize **Power BI, Excel (including VBA), SQL, and R** for data analysis, extraction, visualization, and process optimization
@@ -28,105 +29,67 @@ Additionally, mentor healthcare professionals transitioning into clinical resear
 ### Guest Lecturer
 
 **Harvard University** | May 2025
+
 - Delivered lectures on the application of technology and artificial intelligence in healthcare
 - Focused on clinical research, data analysis, ethics, and emerging trends
 - Presented case studies on AI in diagnosis, prognosis, and clinical decision support
 
 **Instituto D'Or de Pesquisa e Ensino (IDOR)** | March 2025
+
 - Invited professor in Postgraduate Course in Applied Clinical Research
 - 6-hour module on "Career Transition to Clinical Research"
 
 ### Previous Key Roles
 
 **Project Development Manager** | Instituto D'Or de Pesquisa e Ensino | Oct 2024 - May 2025
+
 - Clinical project management and implementation
 - Budget planning, negotiation, and contract management for clinical trial execution
 - Selection of research sites and feasibility assessments
 
 **Clinical Research Coordinator Sr** | SMOHB | Oct 2023 - Oct 2024
+
 - Coordination of clinical research related to Hyperbaric Oxygen Therapy
 - Management of REDCap, Plataforma Brasil, REBEC, and Clinical Trials platforms
-- Leadership of multidisciplinary teams across multiple research centers
+- Protocol development, regulatory submissions, and site management
 
-**Study Coordinator** | Instituto Americas | Oct 2022 - Mar 2024
-- Oversight of oncological solid tumor study coordination
-- Data management and CRF management
-- Site Initiation Visits (SIV) and monitor assistance
+**Clinical Research Coordinator** | Hospital São Paulo (UNIFESP) | Aug 2022 - Oct 2023
 
----
-
-## 🎯 Areas of Expertise & Focus
-
-- **Clinical Data Management** – Data quality, integrity, EDC systems, REDCap
-- **Statistical Analysis** – Hypothesis testing, regression modeling, survival analysis
-- **Clinical Research** – GCP, ICH guidelines, pharmacovigilance, regulatory compliance
-- **Data Science** – Data analysis, visualization, machine learning, big data
-- **Project Management** – Clinical trial execution, budget planning, site selection
-- **Mentorship & Teaching** – Career transition coaching, technical training
+- Coordinated Phase III and IV clinical trials in oncology and intensive care
+- Managed the COVID-19 vaccine study, ensuring GCP compliance and regulatory requirements
+- Trained research staff and conducted site audits
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-### Programming & Data Analysis
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Data Analysis & Visualization**
+- Power BI, Tableau, Excel (Advanced VBA)
+- R, SQL, Python
+- Statistical analysis and modeling
 
-### Data Visualization & BI
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+**Clinical Research Tools**
+- REDCap, EDC systems (Medidata Rave, Oracle InForm)
+- Clinical trial management systems
+- Regulatory platforms (Plataforma Brasil, REBEC, ClinicalTrials.gov)
 
-### Clinical Research Tools
-![REDCap](https://img.shields.io/badge/REDCap-CC0000?style=for-the-badge&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Other Technologies
-- **Cloud Computing** (AWS, Azure)
-- **VBA** for Excel automation
-- **GDPR/LGPD** compliance
+**Research & Quality**
+- Good Clinical Practices (GCP)
+- Data quality and integrity management
+- Protocol development and CRF design
+- Pharmacovigilance and safety reporting
 
 ---
 
-## 🎓 Education
+## Featured Projects
 
-**PUC Minas** | Specialization in Statistics for Data Science 
-
-**PUC Minas** | Specialization in Data Science and Big Data 
-- Skills: R, Python, SQL, Power BI, Machine Learning, Deep Learning, Data Management, Cloud Computing
-
-**UNINOVE** | Bachelor's in Biomedical Sciences 
-
-**Centro Universitário São Camilo** | Bachelor's in Biomedical Sciences 
-
-**Instituto do Sono** | Technical Degree in Polysomnography 
-
----
-
-## 📜 Certifications (181+ Certifications)
-
-- Data Governance (Alura, 2025)
-- Looker Studio (Alura, 2025)
-- Good Clinical Practice (GCP)
-- ICH Guidelines
-- REDCap Training
-- And 175+ additional certifications in data science, clinical research, and healthcare
-
----
-
-## 🌟 Featured Projects
-
-Here are some of my key repositories and contributions:
-
-- **[Clinical Data Cleaning Pipeline](https://github.com/GiseleMalvezzi/clinical-data-cleaning-pipeline)** – Automated pipeline for clinical data cleaning and validation in R
-- **[Projeto-Git](https://github.com/GiseleMalvezzi/Projeto-Git)** – Python and R projects for health sciences
-- **R Statistics Toolkit** – Collection of R scripts and functions for biomedical statistical analysis
+- **Clinical Data Cleaning Pipeline** – Automated data validation and cleaning workflows for clinical trials
+- **Clinical Google Sheets Automation** – Integration tools for clinical data management
 - **REDCap Automation Tools** – Tools to streamline REDCap data management and reporting
 
 ---
 
-## 🏆 Key Achievements
+## Key Achievements
 
 - **Guest Lecturer at Harvard University** – Taught AI and technology applications in healthcare
 - **Janssen COVID-19 Study Leadership** – Led management and conduct ensuring GCP compliance
@@ -136,7 +99,7 @@ Here are some of my key repositories and contributions:
 
 ---
 
-## 🌍 Open Science & Contributions
+## Open Science & Contributions
 
 I'm committed to advancing open science and making research more accessible and reproducible:
 
@@ -148,11 +111,11 @@ I'm committed to advancing open science and making research more accessible and 
 
 ---
 
-## 💬 Languages
+## Languages
 
-- 🇧🇷 **Portuguese** – Native
-- 🇺🇸 **English** – Professional working proficiency
-- 🇪🇸 **Spanish** – Elementary proficiency
+- **Portuguese** – Native
+- **English** – Professional working proficiency
+- **Spanish** – Elementary proficiency
 
 ---
 
@@ -165,6 +128,7 @@ I'm always interested in connecting with fellow researchers, data scientists, an
 **LinkedIn:** [linkedin.com/in/giselemalvezzi](https://www.linkedin.com/in/giselemalvezzi/)
 
 Feel free to reach out for:
+
 - Collaborations on clinical research projects
 - Consulting on clinical data management
 - Mentorship for career transitions
@@ -172,7 +136,7 @@ Feel free to reach out for:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiseleMalvezzi&show_icons=true&theme=radical)
 
