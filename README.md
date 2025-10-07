@@ -83,8 +83,7 @@ Additionally, mentor healthcare professionals transitioning into clinical resear
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Other Technologies
-- **Cloud Computing** (AWS, Azure basics)
-- **Linux** command line
+- **Cloud Computing** (AWS, Azure)
 - **VBA** for Excel automation
 - **GDPR/LGPD** compliance
 
@@ -92,16 +91,16 @@ Additionally, mentor healthcare professionals transitioning into clinical resear
 
 ## 🎓 Education
 
-**PUC Minas** | Specialization in Statistics for Data Science | Jul 2024 - Dec 2025
+**PUC Minas** | Specialization in Statistics for Data Science 
 
-**PUC Minas** | Specialization in Data Science and Big Data | Dec 2022 - Jun 2024
+**PUC Minas** | Specialization in Data Science and Big Data 
 - Skills: R, Python, SQL, Power BI, Machine Learning, Deep Learning, Data Management, Cloud Computing
 
-**UNINOVE** | Bachelor's in Biomedical Sciences | Jul 2016 - Jul 2017
+**UNINOVE** | Bachelor's in Biomedical Sciences 
 
-**Centro Universitário São Camilo** | Bachelor's in Biomedical Sciences | Jan 2013 - Jul 2016
+**Centro Universitário São Camilo** | Bachelor's in Biomedical Sciences 
 
-**Instituto do Sono** | Technical Degree in Polysomnography | Oct 2008 - Oct 2010
+**Instituto do Sono** | Technical Degree in Polysomnography 
 
 ---
 
