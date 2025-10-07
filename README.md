@@ -21,9 +21,9 @@ Power BI • SQL • R • Python • Excel (VBA) • REDCap • SAS • Git
 
 ## 🎓 Education
 - Specialization in Statistics for Data Science - PUC Minas (ongoing)
-- Postgraduate in Data Science and Big Data
+- Postgraduate in Data Science and Big Data - PUC Minas 
 - Biomedical Sciences - UNINOVE
 
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/giselemalvezzi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gisele.malvezzi@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pesquisaclinica.gisele@gmail.com)
