@@ -1,7 +1,7 @@
 # Gisele Malvezzi
 ![Profile Views](https://komarev.com/ghpvc/?username=GiseleMalvezzi&color=blueviolet&style=flat-square)
 
-## About
+## About me
 
 Biomedical scientist and data-driven clinical research professional with expertise in healthcare analytics, study management, and AI applications in medicine. Currently advancing specialization in **Statistics for Data Science** at PUC Minas, with postgraduate credentials in **Data Science and Big Data**.
 
@@ -15,7 +15,7 @@ Biomedical scientist and data-driven clinical research professional with experti
 
 **Thought Leadership:** Creator of educational content on clinical research career transitions, bridging the gap between biomedical sciences and data-driven healthcare innovation.
 
-## 💼 Experiences
+## Experiences
 
 **Clinical Data Management & Analytics**
 - Led data quality and integrity operations for international clinical trials, implementing robust validation protocols that reduced data discrepancies by ensuring compliance with GCP/ICH guidelines
