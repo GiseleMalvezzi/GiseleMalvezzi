@@ -1,7 +1,7 @@
 # Gisele Malvezzi
 ![Profile Views](https://komarev.com/ghpvc/?username=GiseleMalvezzi&color=blueviolet&style=flat-square)
 
-## 🔬 About
+## About
 
 Biomedical scientist and data-driven clinical research professional with expertise in healthcare analytics, study management, and AI applications in medicine. Currently advancing specialization in **Statistics for Data Science** at PUC Minas, with postgraduate credentials in **Data Science and Big Data**.
 
@@ -32,17 +32,17 @@ Biomedical scientist and data-driven clinical research professional with experti
 - Developed and delivered "Career Transition to Clinical Research" training module, empowering biomedical professionals to enter the clinical research field
 - Created comprehensive CRFs (Case Report Forms) optimized for data capture efficiency and downstream analytics
 
-## 🛠 Technologies
+## Technologies
 
 Power BI • SQL • R • Python • Excel (VBA) • REDCap • SAS • Git
 
-## 🎓 Education
+## Education
 
 - Specialization in Statistics for Data Science - PUC Minas (ongoing)
 - Postgraduate in Data Science and Big Data - PUC Minas 
 - Biomedical Sciences - UNINOVE
 
-## 📫 Contact
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/giselemalvezzi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pesquisaclinica.gisele@gmail.com)
