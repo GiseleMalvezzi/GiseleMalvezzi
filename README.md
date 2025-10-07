@@ -4,24 +4,15 @@
 ## 🔬 About
 Biomedical scientist with postgraduate degree in **Data Science and Big Data** and specialization in **Statistics for Data Science** (PUC Minas).
 
-**Clinical Data Analyst** at HCor | Former IDOR, Instituto Americas, SMOHB, UNIFESP
 
-## 💼 Experience
 
-**Clinical Data Analyst** | HCor | May 2025 - Present
+## 💼 Experiences
+
 - Data quality and integrity management in clinical studies
 - CRF development, dashboards (Power BI, Excel), and analysis (SQL, R)
-
-**Guest Lecturer** | Harvard University | May 2025
 - AI and technology applied to healthcare
-
-**Guest Professor** | IDOR | Mar 2025
 - Module "Career Transition to Clinical Research"
-
-**Project Development Manager** | IDOR | Oct 2024 - May 2025
 - Clinical project and budget management
-
-**Clinical Research Analyst** | IDOR | Feb 2021 - Oct 2024
 - COVID-19 Janssen vaccine study lead
 - Multicenter protocol management (oncology, ICU, medical devices)
 
